@@ -1,8 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Producto } from '../interfaces/producto.interface';
-import { resolve } from 'dns';
-import { reject } from 'q';
+
 
 
 @Injectable({
@@ -45,7 +44,7 @@ export class ProductosService {
   buscarProducto(termino: string) {
 
 
-    if (this.productos.length == 0) {
+    if (this.productos.length === 0) {
       // cargar productos
       this.cargarProductos().then(() => {
         // ejecutar despues de tener los productos
