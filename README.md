@@ -3,9 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
 ## Portafolio Live Demo
-https://andresfbramirez.com/#/
-<br>
-https://curriculum-9e825.web.app/#/AndresFBola%C3%B1os
+
 
 ## Development server
 
