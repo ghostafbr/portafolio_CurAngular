@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
 ## Portafolio Live Demo
-
+https://ghostafbr.github.io/portafolio_CurAngular/index.html#/home
 
 ## Development server
 
